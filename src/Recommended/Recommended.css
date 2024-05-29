@@ -1,0 +1,8 @@
+.recommended-title {
+  margin-top: 2rem; /* Adjust margin as needed */
+}
+.recommended-flex {
+  display: flex;
+  justify-content: center; /* Center recommended items horizontally */
+  margin-top: 2rem; /* Adjust margin as needed */
+}
