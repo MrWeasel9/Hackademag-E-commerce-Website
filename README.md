@@ -1,7 +1,12 @@
 
+
 # Hackademag E-commerce React Project
 
 This is a React-based e-commerce application for a shoe store. The application features a product listing page with search and filter functionality, a cart system, and various interactive UI elements.
+
+## Screenshot
+
+![image](https://github.com/MrWeasel9/Hackademag-E-commerce-Website/assets/47690910/d6ba130e-cba7-47e9-a24e-ed72b01a6a18)
 
 ## Features
 
